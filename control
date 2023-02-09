@@ -1,0 +1,9 @@
+Package: com.chrisgleich1aufsmaul.djaypro
+Name: djayPro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Activate djayPro now!
+Maintainer: chrisgleich1aufsmaul
+Author: chrisgleich1aufsmaul
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
